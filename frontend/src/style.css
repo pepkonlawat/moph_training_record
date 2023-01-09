@@ -1,0 +1,11 @@
+#app {
+ font-family: 'Noto Sans Thai', sans-serif;
+}
+.container {
+    position: relative;
+    height: 740px;
+    padding: 24px;
+    background-color: #fff;
+    border-radius: 200px;
+    min-height: 100%;
+}
